@@ -6,6 +6,25 @@ Durante o processo de criação da mídia de instalação selecione a seguinte o
 
 [![Windows6.png](https://i.postimg.cc/9Mw14NCP/Windows6.png)](https://postimg.cc/wyHDZ2t3)
 
-Em seguida a seguinte opção:
+Em seguida a seguinte opção :
 
 [![Windows7.png](https://i.postimg.cc/pdTsvLS6/Windows7.png)](https://postimg.cc/Yv56fMM6)
+
+Selecione a linguagem, edição e arquitetura do Windows. Por fim grave a ISO em uma mídia do tipo Pendrive ou LiveCD.
+
+Reinicie o Windows entre na BIOS do PC e inicie a mídia de crição como primeira prioridade de boot. Durante o Processo de inicialização do mídia abra o prompt de comando da seguinte maneira:
+
+
+Entre na unidade da mídia de instalação, como neste exemplo a mídia de instalação está na unidade D:
+
+```prompt
+D:
+```
+
+```prompt
+cd Windows
+```
+
+```prompt
+cd System32
+```
