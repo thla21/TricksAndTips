@@ -24,6 +24,10 @@ Neste exemplo suspeite do processo cujo o `PID` era **7600**, então segui com o
 wmic process where processid=4444 get ExecutablePath
 ```
 
+A saída será o diretório do executável cujo o PID está relacionado
+
+[![Windows21.png](https://i.postimg.cc/7h6R1PVJ/Windows21.png)](https://postimg.cc/xJwgn2B9)
+
 Entre no gerenciador de tarefas com o atalho `Ctrl + Shift + Esc` e na aba de detalhes ordene por ordem decrescente os PIDs, 
 no meu caso o software suspeito era nada mais que o Google Chrome rsrs!:)
 
