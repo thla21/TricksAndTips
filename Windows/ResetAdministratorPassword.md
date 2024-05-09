@@ -8,7 +8,7 @@ Durante o processo de criação da mídia de instalação selecione a seguinte o
 
 Em seguida a seguinte opção :
 
-[![Windows7.png](https://i.postimg.cc/pdTsvLS6/Windows7.png)](https://postimg.cc/Yv56fMM6)
+![Windows7](https://github.com/thla21/TricksAndTips/assets/62508225/abba085d-a765-431e-9a1a-0b7c776bcaf1)
 
 Selecione a linguagem, edição e arquitetura do Windows. Por fim grave a ISO em uma mídia do tipo Pendrive ou LiveCD.
 
