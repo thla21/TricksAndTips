@@ -4,7 +4,7 @@ Para inicio do procedimento baixe o [MediaCreationTool22H2.exe](https://www.micr
 
 Durante o processo de criação da mídia de instalação selecione a seguinte opção `Crie uma mídia de instalação (USB, DVD ou ISO) para outro PC`:
 
-[![Windows6.png](https://i.postimg.cc/9Mw14NCP/Windows6.png)](https://postimg.cc/wyHDZ2t3)
+![Windows6](https://github.com/thla21/TricksAndTips/assets/62508225/837aa095-56ff-47bc-be31-9d6e8666fb76)
 
 Em seguida a seguinte opção :
 
