@@ -18,9 +18,9 @@ Reinicie o Windows entre na BIOS do PC e inicie a mídia de crição como primei
 
 ![Windows10](https://github.com/thla21/TricksAndTips/assets/62508225/ad446fd4-ce50-44a0-b9b9-8e5b037c0f22)
 
-[![Windows10.png](https://i.postimg.cc/PxjDQtDq/Windows10.png)](https://postimg.cc/Mc9XWJdk)
+![Windows11](https://github.com/thla21/TricksAndTips/assets/62508225/7c921631-8abb-411a-b4b9-d3ad34aa7197)
 
-[![Windows11.png](https://i.postimg.cc/QC6WD1yB/Windows11.png)](https://postimg.cc/D4XzdJFF)
+![Windows12](https://github.com/thla21/TricksAndTips/assets/62508225/6fd98d14-110f-4e02-a554-6e12cc75a293)
 
 Entre na unidade da mídia de instalação, como neste exemplo a mídia de instalação está na unidade D:
 
@@ -50,11 +50,11 @@ ren utilman2.exe utilman.exe
 
 Feixe o prompt de comando e clique em **Continue**, reinicie a máquina:
 
-[![Windows13.png](https://i.postimg.cc/RFsrMm3R/Windows13.png)](https://postimg.cc/S2M1rwf2)
+![Windows14](https://github.com/thla21/TricksAndTips/assets/62508225/9324eb9f-41c3-4d07-93bc-7f48f13e734b)
 
 Na tela de login clique no ícone do meio no canto inferior direito, você terá acesso a tela de prompt com o utilitário `utilman`:
 
-[![Windows14.png](https://i.postimg.cc/ZY3bV0Cm/Windows14.png)](https://postimg.cc/s1jC2jYH)
+![Windows15](https://github.com/thla21/TricksAndTips/assets/62508225/8c8e46f9-4529-47f3-9bc3-392df163e263)
 
 Execute o seguinte comando para ver seu nível de autoridade:
 
@@ -62,7 +62,7 @@ Execute o seguinte comando para ver seu nível de autoridade:
 whoami
 ```
 
-[![Windows15.png](https://i.postimg.cc/0yq1jCfK/Windows15.png)](https://postimg.cc/QHSyn1vj)
+![Windows16](https://github.com/thla21/TricksAndTips/assets/62508225/02e42871-90ab-40cf-9207-b635aab5bb5e)
 
 Agora adicione um usuário e senha:
 
