@@ -4,19 +4,19 @@ Para inicio do procedimento baixe o [MediaCreationTool22H2.exe](https://www.micr
 
 Durante o processo de criação da mídia de instalação selecione a seguinte opção `Crie uma mídia de instalação (USB, DVD ou ISO) para outro PC`:
 
-![Windows6](https://github.com/thla21/TricksAndTips/assets/62508225/837aa095-56ff-47bc-be31-9d6e8666fb76)
+![Windows7](https://github.com/thla21/TricksAndTips/assets/62508225/abba085d-a765-431e-9a1a-0b7c776bcaf1)
 
 Em seguida a seguinte opção :
 
-![Windows7](https://github.com/thla21/TricksAndTips/assets/62508225/abba085d-a765-431e-9a1a-0b7c776bcaf1)
+![Windows8](https://github.com/thla21/TricksAndTips/assets/62508225/fd6f37fe-9693-4694-921a-2aafc4f3f351)
 
 Selecione a linguagem, edição e arquitetura do Windows. Por fim grave a ISO em uma mídia do tipo Pendrive ou LiveCD.
 
 Reinicie o Windows entre na BIOS do PC e inicie a mídia de crição como primeira prioridade de boot. Durante o Processo de inicialização do mídia abra o prompt de comando da seguinte maneira:
 
-[![Windows8.png](https://i.postimg.cc/5tvvzH6G/Windows8.png)](https://postimg.cc/Ffr75Hbg)
+![Windows9](https://github.com/thla21/TricksAndTips/assets/62508225/afe21db8-8f58-47ac-985a-1a596f272c1c)
 
-[![Windows9.png](https://i.postimg.cc/sgb71PD7/Windows9.png)](https://postimg.cc/yDXkbZR8)
+![Windows10](https://github.com/thla21/TricksAndTips/assets/62508225/ad446fd4-ce50-44a0-b9b9-8e5b037c0f22)
 
 [![Windows10.png](https://i.postimg.cc/PxjDQtDq/Windows10.png)](https://postimg.cc/Mc9XWJdk)
 
