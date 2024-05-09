@@ -72,7 +72,7 @@ net user <NOME_DO_USUÁRIO> <SENHA_DO_USUÁRIO> /add
 
 Usuário será adicionado com sucesso
 
-[![Windows16.png](https://i.postimg.cc/yYkBGP1w/Windows16.png)](https://postimg.cc/gnFfX36D)
+![Windows17](https://github.com/thla21/TricksAndTips/assets/62508225/53601413-2d29-4140-ba5c-83b84212e68f)
 
 Agora vamos ver o nível de privilegio deste novo usuário:
 
@@ -82,10 +82,10 @@ netplwiz
 
 Siga a sequencia das imagens abaixo:
 
-[![Windows17.png](https://i.postimg.cc/13L9wYF9/Windows17.png)](https://postimg.cc/jD40rcv9)
+![Windows18](https://github.com/thla21/TricksAndTips/assets/62508225/7b21b9a6-6771-42ba-b69a-47eee211ad18)
 
-[![Windows18.png](https://i.postimg.cc/157R5z5V/Windows18.png)](https://postimg.cc/LnfFx2Pm)
+![Windows19](https://github.com/thla21/TricksAndTips/assets/62508225/d439b594-4aa4-4cb6-af4c-4178f66fe739)
 
-[![Windows19.png](https://i.postimg.cc/P5LXLkP3/Windows19.png)](https://postimg.cc/WdvLKCmg)
+![Windows20](https://github.com/thla21/TricksAndTips/assets/62508225/a278f390-0f97-4992-8a34-edce7b778cae)
 
 Por fim clique em aplicar e der OK. Logue com o novo usuário e sucesso!:)
